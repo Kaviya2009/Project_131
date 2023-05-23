@@ -1,0 +1,19 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#a1,#a2,#a3,#a4,#a5
+{
+font-size: 23px;
+margin: 0px;
+background-color: rgb(160, 82, 45);
+}
